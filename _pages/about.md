@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Suffolk</a>. Software Engineer and Computer 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
